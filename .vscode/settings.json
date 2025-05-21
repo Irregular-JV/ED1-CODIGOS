@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stack.h": "c",
+        "stdlib.h": "c",
+        "cqueue.h": "c",
+        "array": "c",
+        "deque": "c",
+        "vector": "c"
+    }
+}
